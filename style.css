@@ -1,0 +1,21 @@
+<style>
+ 
+.a{
+ text-align: center;
+
+}
+
+.b{
+    text-align: center;
+  background-color: blanchedalmond;
+  height: 210px;
+  width: 600px;
+  margin-left: auto; 
+  margin-right: auto;
+}
+#aa{
+    color: chartreuse;
+    background-color: blueviolet;
+}
+
+</style>
